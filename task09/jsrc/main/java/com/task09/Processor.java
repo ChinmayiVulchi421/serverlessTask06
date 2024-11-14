@@ -27,7 +27,8 @@ import java.util.UUID;
 
 @LambdaHandler(lambdaName = "processor",
 		roleName = "processor-role",
-		isPublishVersion = false,
+		isPublishVersion = true,
+		aliasName = "learn",
 		tracingMode = TracingMode.Active,
 		logsExpiration = RetentionSetting.SYNDICATE_ALIASES_SPECIFIED
 )
