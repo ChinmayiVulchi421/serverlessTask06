@@ -9,12 +9,9 @@
         <option value="$PROJECT_DIR$/task09/pom.xml" />
         <option value="$PROJECT_DIR$/task10/pom.xml" />
         <option value="$PROJECT_DIR$/task11/pom.xml" />
+        <option value="$PROJECT_DIR$/task11/task10/pom.xml" />
+        <option value="$PROJECT_DIR$/task11/task11/pom.xml" />
       </list>
-    </option>
-    <option name="ignoredFiles">
-      <set>
-        <option value="$PROJECT_DIR$/task11/pom.xml" />
-      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="17" project-jdk-type="JavaSDK">
